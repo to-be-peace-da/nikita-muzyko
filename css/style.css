@@ -9,13 +9,18 @@ nav {
 }
 
 nav img {
-    height: 100px;
+    height: 125px;
+    transform: translateY(-5px);
+
+}
+
+#nav-transform {
+    transform: translateY(8px);
 
 }
 
 img#photo {
-    height: 50vh;
-    float: left;
+    height: 40vh;
 
 }
 
@@ -32,13 +37,12 @@ nav a {
 }
 
 #student {
-    color: #999999;
+    color: #696969;
 
 }
 
 .custom-background {
-    background: #1b1c1b;
-    filter: contrast(0.95);
+    background: #1d1e33;
 
 }
 
@@ -48,11 +52,11 @@ nav a {
 }
 
 #programs img {
-    max-height: 150px;
+    max-height: 200px;
 
 }
 
 .taj {
-    text-align: justify !important;
+    text-align: justify;
 
 }
