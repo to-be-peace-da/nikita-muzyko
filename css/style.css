@@ -1,0 +1,58 @@
+.pf {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+}
+
+nav {
+    height: 135px;
+
+}
+
+nav img {
+    height: 100px;
+
+}
+
+img#photo {
+    height: 50vh;
+    float: left;
+
+}
+
+nav a {
+    font-size: 36px;
+    font-weight: bold;
+
+}
+
+.about-dec {
+    color: black;
+    font-weight: bold;
+
+}
+
+#student {
+    color: #999999;
+
+}
+
+.custom-background {
+    background: #1b1c1b;
+    filter: contrast(0.95);
+
+}
+
+.fc2 {
+    color: #c2c2c2;
+
+}
+
+#programs img {
+    max-height: 150px;
+
+}
+
+.taj {
+    text-align: justify !important;
+
+}
