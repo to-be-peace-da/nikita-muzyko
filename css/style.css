@@ -20,7 +20,7 @@ nav img {
 }
 
 .photo {
-    width: 20vh;
+    width: 190px;
 
 }
 
@@ -36,12 +36,12 @@ nav a {
 
 }
 
-#student {
+.student {
     color: #696969;
 
 }
 
-.custom-background {
+.custom-background-for-main {
     background: #1d1e33;
 
 }
@@ -52,7 +52,17 @@ nav a {
 }
 
 #programs img {
-    max-height: 200px;
+    height: 200px;
+
+}
+
+#programs-2 img {
+    height: 200px;
+
+}
+
+.img-mr {
+    height: 300px;
 
 }
 
