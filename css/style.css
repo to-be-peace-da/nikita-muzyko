@@ -79,20 +79,20 @@ nav a {
 }
 
 .tc-download {
-    text-decoration: none;
-    color: white;
+    text-decoration: none; !important;
+    color: white; !important;
 
 }
 
 .download-bt {
-    color: white;
-    text-decoration: none;
+    color: white; !important;
+    text-decoration: none; !important;
 
 }
 
 .download-bt:hover {
-    color: #696969;
-    text-decoration: none;
+    color: #696969; !important;
+    text-decoration: none; !important;
     border-color: #696969 !important;
 
 }
