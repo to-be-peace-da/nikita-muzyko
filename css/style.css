@@ -9,7 +9,7 @@ nav {
 }
 
 nav img {
-    height: 125px;
+    height: 115px;
     transform: translateY(-5px);
 
 }
@@ -68,5 +68,31 @@ nav a {
 
 .taj {
     text-align: justify;
+
+}
+
+@media (max-height: 600px) {
+    .img-mr {
+        height: 180px !important;
+    }
+
+}
+
+.tc-download {
+    text-decoration: none;
+    color: white;
+
+}
+
+.download-bt {
+    color: white;
+    text-decoration: none;
+
+}
+
+.download-bt:hover {
+    color: #696969;
+    text-decoration: none;
+    border-color: #696969 !important;
 
 }
